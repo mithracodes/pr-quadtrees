@@ -1,6 +1,6 @@
 # pr-quadtrees
 
-This is my submission for ***Project 2 of COMP20003 Algorithms and Data Structures in Sem 2 2022***. The following implementation of a PR quadtree supports a number of functions such as inserting data points, searching for individual datapoints and searching (returning) for all datapoints within a query rectangle. 
+The following implementation of a PR quadtree supports a number of functions such as inserting data points, searching for individual datapoints and searching (returning) for all datapoints within a query rectangle. 
 
 ## Overview
 
