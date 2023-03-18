@@ -1,0 +1,3 @@
+footpath_id,address,clue_sa,asset_type,deltaz,distance,grade1in,mcc_id,mccid_int,rlmax,rlmin,segside,statusid,streetid,street_group,start_lat,start_lon,end_lat,end_lon
+29996,,Carlton,Road Footway,0.46,54.51,118.5,1388910.0,0.0,24.91,24.45,,0.0,0.0,29996.0,-37.79327234020523,144.97550677200553,-37.794366870830814,144.97531546208762
+27665,Palmerston Street between Rathdowne Street and Drummond Street,Carlton,Road Footway,3.21,94.55,29.5,1384273.0,20684.0,35.49,32.28,North,2.0,955.0,28597.0,-37.796155887263744,144.97056424489568,-37.79606116572821,144.96941668057087
