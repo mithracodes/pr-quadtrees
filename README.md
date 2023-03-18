@@ -111,3 +111,5 @@ With the following output to *stdout*:
 144.9678 -37.79741 144.97202 -37.79382 --> SW SW SE
 144.973 -37.795 144.976 -37.792 --> NE SE
 ```
+
+*** Note: This is my submission for *Project 2 of COMP20003 Algorithms and Data Structures in Sem 2 2022* ***
